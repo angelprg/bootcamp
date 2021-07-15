@@ -2,6 +2,6 @@
 
 ### [1 - Git](https://github.com/angelprg/bootcamp/blob/main/modulo1/1-Git.md)
 ### [2 - HTML](https://github.com/angelprg/bootcamp/blob/main/modulo1/2-HTML.md)
-### 3 - CSS
+### [3 - CSS](https://github.com/angelprg/bootcamp/blob/main/modulo1/3-CSS.md)
 ### 4 - SASS
 ### 5 - Bootstrap
